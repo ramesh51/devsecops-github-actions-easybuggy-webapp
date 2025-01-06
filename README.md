@@ -1,4 +1,5 @@
 EasyBuggy Vulnerable Web App Modified by Raghu the Security Expert (https://www.raghuthesecurityexpert.com) and A Security Guru (ASG) 
+=
 
 EasyBuggy is a broken web application in order to understand behavior of bugs and vulnerabilities, for example, [memory leak, deadlock, JVM crash, SQL injection and so on](https://github.com/k-tamura/easybuggy#clock4-easybuggy-can-reproduce).
 
