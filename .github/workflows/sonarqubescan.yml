@@ -1,4 +1,4 @@
-name: SonarQube SaaS version i.e. SonarCloud
+name: SonarQube SaaS version i.e SonarCloud
 on: 
   push:
     branches:
