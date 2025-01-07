@@ -1,4 +1,4 @@
-name: Snyk Scan using GitHub Actions
+name: Snyk Scan using GitHub Actions with Continue on Error as False
 on:
   push:
     branches:
