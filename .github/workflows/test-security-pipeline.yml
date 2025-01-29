@@ -2,7 +2,7 @@ name: Security Pipeline with Independent Jobs
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   sonarqube:
